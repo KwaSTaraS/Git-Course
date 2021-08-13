@@ -12,4 +12,5 @@ function arraySortBubble (array) {
     }
   }
   console.log(array)
+  console.log('Tests logs')
 }
