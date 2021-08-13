@@ -36,17 +36,3 @@ let user = {
 
 
 
-// how create object
-// read https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
-//git clone https://github.com/KwaSTaraS/calsMeatPorridge.git
-
-// 		learn
-//git commit
-//git push
-//git branch
-		//need know
-//git cherry-pick
-//git reset
-//git merge
-//git status
-//git add
